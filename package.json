@@ -1,5 +1,6 @@
 {
-  "name": "react-useoptimistic",
+  "name": "react-useactionstate",
+  "homepage": "https://tallmanish.github.io/react-useactionstate/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
